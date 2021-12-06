@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#local to Project
+List of Commands.txt
+Procfile
+requirements.txt
+todo.db
+
 # C extensions
 *.so
 
